@@ -1,4 +1,17 @@
+# Common
 node_modules
 dist
 coverage
+build
+
+*.generated.*
 pnpm-lock.yaml
+
+# React Native generated files
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+ios/Pods/
+ios/build/
+ios/**/*.xcassets/
