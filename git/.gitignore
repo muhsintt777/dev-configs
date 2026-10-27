@@ -1,0 +1,24 @@
+# common
+node_modules
+coverage
+build
+dist
+
+# ENV
+.env
+.env.dev
+.env.prod
+.env.test
+
+# firebase
+.firebase
+.firebaserc
+.firebase.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
